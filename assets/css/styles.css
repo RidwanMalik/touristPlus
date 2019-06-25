@@ -1,0 +1,20 @@
+#header {
+  height:100vh;
+  background-image:url("../../assets/img/bagan-1137015.jpg");
+  background-position:center;
+  background-size:cover;
+  background-repeat:no-repeat;
+}
+
+.hero-section h1 {
+  font-family:Amita, cursive;
+}
+
+.login-heading {
+  font-family:Amita, cursive;
+}
+
+.login-section {
+  width:350px;
+}
+
